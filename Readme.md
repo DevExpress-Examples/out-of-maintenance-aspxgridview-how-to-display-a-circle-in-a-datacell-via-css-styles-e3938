@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxGridView - How to display a circle in a DataCell via CSS styles
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3938/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display a circle in a DataCell via CSS only</p><p>1) Define a custom CSS class;<br />
